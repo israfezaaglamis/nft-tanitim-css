@@ -1,0 +1,18 @@
+.bicim {
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif
+    
+}
+.link {
+    padding: auto;
+    color: #DADBBD;
+    text-decoration: none;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+}
+
+.list {
+    list-style-position: inside;
+     
+
+}
